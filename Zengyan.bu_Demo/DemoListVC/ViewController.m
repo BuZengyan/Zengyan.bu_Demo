@@ -97,6 +97,7 @@
         UIViewController *vc = class.new;
         [self.navigationController pushViewController:vc animated:YES];
     }
+    
 }
 
 - (void)didReceiveMemoryWarning {
